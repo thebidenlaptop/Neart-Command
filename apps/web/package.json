@@ -1,0 +1,6 @@
+{
+  "name": "@neart/web",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Next.js front end. Presentation only: talks to apps/api, imports components from @neart/ui."
+}

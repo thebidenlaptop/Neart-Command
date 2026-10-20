@@ -1,0 +1,12 @@
+{
+  "name": "neart-command",
+  "private": true,
+  "version": "0.0.0",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "db:migrate": "npm run migrate -w @neart/db",
+    "db:seed": "npm run seed -w @neart/db",
+    "db:check": "npm run check -w @neart/db"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@neart/ui",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Design system: tokens and presentational components. Redesigning the look of the app should only touch this package."
+}

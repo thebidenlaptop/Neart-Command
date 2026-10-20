@@ -1,0 +1,6 @@
+{
+  "name": "@neart/api",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Node back end: lead pipeline, calendar, automations, integrations (Google Ads, Facebook Lead Ads, WhatsApp). All business logic lives here."
+}

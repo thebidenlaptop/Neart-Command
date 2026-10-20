@@ -1,0 +1,13 @@
+{
+  "name": "@neart/db",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "migrate": "node scripts/migrate.mjs",
+    "seed": "node scripts/seed.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "dependencies": { "pg": "^8.13.0" },
+  "devDependencies": { "@electric-sql/pglite": "^0.2.17" }
+}
